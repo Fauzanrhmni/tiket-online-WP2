@@ -182,8 +182,6 @@
 					</div>
 				</div>
 
-				<div class="submit-reset">
-				</div>
 			</form>
 			<?php endforeach; ?>
 		</div>
